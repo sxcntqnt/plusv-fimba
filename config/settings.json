@@ -1,0 +1,34 @@
+{
+  "email": {
+    "apiKey": "0b60025379d93e700453f7aed96e5f4d53e1b0b7b0117f4b80c36c13d80e4a07",
+    "inbox": {
+      "email_address": "6016fd92-29fd-43b8-b8e4-f91d81231491@mailslurp.mx"
+    }
+  },
+  "smtp": {
+    "smtp_host": "mailslurp.mx",
+    "smtp_auth": "true",
+    "smtp_uname": "3uCClqIBs9fHXuBxxr1iIDko19nAmDE9",
+    "smtp_pwd": "3e3QiH5SUxksZHFjfG7W12DUc4gIV9Hv",
+    "smtp_issecure": "true",
+    "smtp_port": "2587",
+    "smtp_emailfrom": "6016fd92-29fd-43b8-b8e4-f91d81231491@mailslurp.mx",
+    "smtp_replyto": "1806815@students.kcau.ac.ke"
+  },
+  "s_id": 1,
+  "s_companyname": "ZOTU",
+  "s_address": "Buruburu,58",
+  "s_inovice_prefix": "CAPITAN",
+  "s_logo": "sitelogo.jpg",
+  "s_price_prefix": "KSH ",
+  "s_inovice_termsandcondition": "Sample invoice terms and condition..Please change it in settings page............",
+  "s_inovice_servicename": "Vehicle Booking",
+  "s_googel_api_key": "AIzaSyA1tT5eHsRh7kbZDzebF-lfVzVgSX8zpLg",
+  "created_at": "2022-10-15T14:30:00Z", 
+  "database": {
+    "filename": "api.db"
+  },
+  "jwt": {
+    "secret_key": "F1aK3S3cr3tK3yF0rJWTgpt3CurlAP1W1th128CharsP4ssw0rd"
+  }
+}

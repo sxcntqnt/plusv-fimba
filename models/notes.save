@@ -1,0 +1,5 @@
+ProductRefer	 int	 	`json:"productKey"`
+Product		Product		`gorm:"foreignKey:ProductRefer"`	
+
+UserRefer	int		`json:"user_id"`
+User		User		`gorm:"foreignKey:UserRefer`
