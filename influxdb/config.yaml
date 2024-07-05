@@ -1,0 +1,18 @@
+influxdb:
+  url: "http://localhost:8086"
+  org: "my-org"
+  bucket: "my-bucket"
+  token: "my-token"
+  batch_size: 2000
+  flush_interval: "5s"
+
+defaultOptions:
+  batchSize: 2000
+  flushInterval: "5s"
+
+CHAINCODE_ID: my-chaincode-id
+CHAINCODE_SERVER_ADDRESS: localhost:9999
+CHAINCODE_TLS_ENABLED: true
+CHAINCODE_TLS_KEY: /path/to/tls/key.pem
+CHAINCODE_TLS_CERT: /path/to/tls/cert.pem
+CHAINCODE_CLIENT_CA_CERT: /path/to/ca/cert.pem
